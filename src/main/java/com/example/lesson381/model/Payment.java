@@ -1,4 +1,4 @@
-package com.example.lesson38.model;
+package com.example.lesson381.model;
 
 public class Payment {
 
